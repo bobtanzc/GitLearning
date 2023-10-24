@@ -1,2 +1,2 @@
 # GitLearning
-Use to learn Git
+This creat this repo to study Git
